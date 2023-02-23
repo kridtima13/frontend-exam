@@ -1,0 +1,94 @@
+   .app-gradient-color {
+      background: linear-gradient(to right, #4db6ac, #a880f3) !important;   
+   }
+ 
+   .app-gradient-color-toolbar {
+      background: linear-gradient(to right, #e02b1f, #e95c25) !important;   
+   }
+   .app-gradient-color-toolbar-success {
+      background: linear-gradient(to right, #00897B, #4DB6AC) !important;   
+   }
+
+   .custom-shadow {
+      box-shadow: 0 3px 10px -2px rgba(85, 85, 85, 0.08),
+         0 2px 20px 0 rgba(85, 85, 85, 0.06), 0 1px 30px 0 rgba(85, 85, 85, 0.03);
+   }
+
+   .centered-input >>> input {
+      text-align: center;
+   }
+
+   @font-face {
+      font-family: 'Montserrat-Bold';
+      src: url('/fonts/Montserrat-Bold.ttf');
+   } 
+
+   .font-bold {    
+      font-family: 'Montserrat-Bold';
+   }
+
+   @font-face {
+      font-family: 'Montserrat-BoldItalic';
+      src: url('/fonts/Montserrat-BoldItalic.ttf');
+   } 
+
+   .font-bold-italic {    
+      font-family: 'Montserrat-BoldItalic';
+   }
+
+   @font-face {
+      font-family: 'Montserrat-Medium';
+      src: url('/fonts/Montserrat-Medium.ttf');
+   }
+
+   .font-medium {    
+      font-family: 'Montserrat-Medium';
+   }
+
+   @font-face {
+      font-family: 'Montserrat-MediumItalic';
+      src: url('/fonts/Montserrat-MediumItalic.ttf');
+   }
+
+   .font-medium-italic {    
+      font-family: 'Montserrat-MediumItalic';
+   }
+   @font-face {
+      font-family: 'Montserrat-Light';
+      src: url('/fonts/Montserrat-Light.ttf');
+   }   
+
+   .font-light {    
+      font-family: 'Montserrat-Light';
+   }
+
+   @font-face {
+      font-family: 'Prompt-Bold';
+      src: url('/fonts/Prompt-Bold.ttf');
+   } 
+
+   .font-bold-thai {    
+      font-family: 'Prompt-Bold';
+   }
+
+   @font-face {
+      font-family: 'Prompt-Medium';
+      src: url('/fonts/Prompt-Medium.ttf');
+   } 
+
+   .font-medium-thai {    
+      font-family: 'Prompt-Medium';
+   }
+   
+   @font-face {
+      font-family: 'Prompt-Light';
+      src: url('/fonts/Prompt-Light.ttf');
+   } 
+
+   .font-light-thai {    
+      font-family: 'Prompt-Light';
+   }
+
+   .v-application a {
+      text-decoration: none !important;
+   }
